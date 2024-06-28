@@ -1,9 +1,9 @@
 <?php
-$servername = "monorail.proxy.rlwy.net";
+$servername = "roundhouse.proxy.rlwy.net";
 $username = "root";
-$password = "RVqVbGZkDeAbTVjNEWZbFVSTNeBekWJV";
+$password = "TtfKtATYkCzOglzhvxsknItVPDhNoCYN";
 $dbname = "railway";
-$port = "15077";
+$port = "57267";
 
 // Crear conexión
 $conn = new mysqli($servername, $username, $password, $dbname, $port);
