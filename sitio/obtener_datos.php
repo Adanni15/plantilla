@@ -1,9 +1,9 @@
 <?php
-$servername = "roundhouse.proxy.rlwy.net";
+$servername = "viaduct.proxy.rlwy.net";
 $username = "root";
-$password = "TtfKtATYkCzOglzhvxsknItVPDhNoCYN";
+$password = "lrCbgZxtowbBjlvMPfzhFJCRIAZHlpJn";
 $dbname = "railway";
-$port = "57267";
+$port = "21347";
 
 // Crear conexión
 $conn = new mysqli($servername, $username, $password, $dbname, $port);
